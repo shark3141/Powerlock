@@ -237,5 +237,3 @@ PowerLockSim/
 # License 与声明
 
 MIT License，仅供学习交流，禁止用于商业产品与安防工程。OneNET 平台服务、商标与文档版权归属中国移动，使用 OneNET 平台请自行阅读并遵守其用户协议。
-
-> （注：部分内容可能由 AI 生成）
