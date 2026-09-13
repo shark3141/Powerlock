@@ -130,9 +130,9 @@ npm install
 
 仓库内硬件代码同样做了脱敏，需要替换：WiFi 名称、WiFi 密码、OneNET 产品 ID、设备名称、设备鉴权信息。
 
-1. 打开 STM32 / ESP8266 源码。
+1. 打开 ESP8266 源码。
 
-2. 替换 WiFi SSID、WiFi Password 为你自己的路由器信息。
+2. 替换 WiFi SSID、WiFi Password 为你自己的路由器信息。(或者直接用手机热点+密码即可)
 
 3. 修改 OneNET 产品 ID、设备名、设备鉴权信息（对应 **YOUR\_PRODUCT\_ID**、**YOUR\_DEVICE\_ID**、**YOUR\_AUTH\_TOKEN** 等占位符）。
 
