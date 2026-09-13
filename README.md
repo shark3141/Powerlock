@@ -1,6 +1,5 @@
-# PowerLockSim —— OneNET 智能锁物联网演示系统（GitHub 仓库 README）
+# PowerLockSim —— OneNET 智能锁物联网演示系统
 
-> 部分内容由豆包生成
 > 
 > 
 
