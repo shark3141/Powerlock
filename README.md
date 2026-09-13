@@ -49,8 +49,8 @@ OneNET 云平台（物模型属性：mode / cmd / lockstate / streamstate）
 ## 克隆代码
 
 ```bash
-git clone https://github.com/你的用户名/PowerLockSim.git
-cd PowerLockSim
+git clone https://github.com/shark3141/Powerlock.git
+cd Powerlock
 ```
 
 ## 导入项目
