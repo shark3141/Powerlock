@@ -194,8 +194,8 @@ npm install
 # 项目文件目录
 
 ```text
-PowerLockSim/
-├── miniprogram/                 # 微信小程序前端目录
+PowerLock/
+├── 小程序&云函数代码/                 # 微信小程序前端目录
 │   ├── app.js
 │   ├── app.json
 │   ├── app.wxss
@@ -211,7 +211,8 @@ PowerLockSim/
 │       └── oneNETProxy/         # OneNET 代理云函数
 │           ├── index.js
 │           └── package.json
-├── hardware/                    # STM32 + ESP8266 硬件源码
+├── stm32/...                    # STM32 硬件源码
+├── esp8266/end.ino                    # ESP8266 硬件源码
 ├── docs/                        # 原理图、部署文档、图片
 ├── .gitignore
 └── README.md
